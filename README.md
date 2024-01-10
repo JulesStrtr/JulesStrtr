@@ -1,5 +1,4 @@
--Hi, I’m @JulesStrtr, aka Jules (They/Them)
--I am a web design student currently learning how to create my own websites from scratch.
+Hi, I’m @JulesStrtr, aka Jules (They/Them). I am a web design student currently learning how to create my own websites from scratch.
 
 <!---
 JulesStrtr/JulesStrtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
